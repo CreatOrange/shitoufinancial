@@ -1,0 +1,10 @@
+#shi_novice{padding: 15px;background:white;margin-top: 10px}
+#shi_novice .novice_nav{display: flex; justify-content: space-between;line-height: 40px}
+#shi_novice .novice_banner{width: 100%; margin-top: 10px}
+#shi_novice .novice_banner img{width: 100%;}
+
+#shi_novice .novice_detail{display: flex;height: 70px;align-items: center;}
+#shi_novice .novice_detail>div:nth-child(1){flex: 2;}
+#shi_novice .novice_detail>div:nth-child(2){flex: 2;}
+#shi_novice .novice_detail>div:nth-child(3){flex: 1;display: flex; align-items: center;}
+#shi_novice .novice_detail>div:nth-child(3) div{line-height: 24px;background: #f60; border-radius: 12px;text-align: center;}
