@@ -1,0 +1,4 @@
+#tender_nav{color:#98c8e8;background: #1480cc; height: 50px;line-height: 50px; display: flex;padding: 0 40px;justify-content:space-around;}
+#tender_nav div{width: 20%;position: relative;}
+#tender_nav div.cur span{position: absolute;width: 20px;height: 2px;top: 40px;left: 0;right: 0;margin: auto;background: white}
+#tender_nav div.cur{color:white;}

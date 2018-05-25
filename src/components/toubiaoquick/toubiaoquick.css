@@ -1,0 +1,9 @@
+#tender_quick{padding: 0 20px;background: white}
+#tender_quick>div:nth-child(1){ line-height: 40px }
+#tender_quick>div.quick_detail>div:nth-child(1){ border-top: 1px solid #ccc;line-height: 40px}
+#tender_quick>div.quick_detail>div:nth-child(2){ display: flex;height: 60px;}
+#tender_quick>div.quick_detail span{font-size:26px }
+#tender_quick>div.quick_detail div:nth-of-type(1) span:nth-of-type(1){ color:#f60;}
+#tender_quick>div.quick_detail>div:nth-child(2)>div{ flex: 1;}
+#tender_quick>div.quick_detail>div:nth-child(2)>div:nth-child(2){ text-align: center;}
+#tender_quick>div.quick_detail>div:nth-child(2)>div:nth-child(3){ text-align: right;}

@@ -1,0 +1,14 @@
+#tender_novice{padding: 0 20px; background: white}
+#tender_novice>div:nth-child(1){ line-height: 40px }
+#tender_novice>div.novice_detail>div:nth-child(1){ border-top: 1px solid #ccc;line-height: 40px}
+#tender_novice>div.novice_detail>div:nth-child(2){ display: flex;height: 60px;}
+#tender_novice>div.novice_detail span{font-size:26px }
+#tender_novice>div.novice_detail div:nth-of-type(1) span:nth-of-type(1){ color:#f60;}
+#tender_novice>div.novice_detail>div:nth-child(2)>div{ flex: 1;}
+#tender_novice>div.novice_detail>div:nth-child(2)>div:nth-child(2){ text-align: center;}
+#tender_novice>div.novice_detail>div:nth-child(2)>div:nth-child(3){ text-align: right;}
+#tender_novice>div.novice_detail>div:nth-child(3){ display: flex;justify-content: space-between;margin-bottom:10px;}
+#tender_novice>div.novice_detail>div:nth-child(3)>div:nth-child(1){ width: 80%;position: relative;}
+#tender_novice>div.novice_detail>div:nth-child(3)>div:nth-child(1)>div{height: 2px;width: 100%;position: absolute;top: 0;bottom: 0;margin: auto ;background: #ccc}
+#tender_novice>div.novice_detail>div:nth-child(3)>div:nth-child(1)>div>div{ height: 2px;width: 80%;background: #f60}
+#tender_novice>div.novice_detail>div:nth-child(3)>div:nth-child(2){ text-align: right;}

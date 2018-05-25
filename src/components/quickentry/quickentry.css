@@ -1,0 +1,7 @@
+#shi_quickentry{padding: 15px;background:white;margin-top: 10px}
+
+#shi_quickentry .quickentry_nav{display: flex; justify-content: space-between;line-height: 40px}
+
+#shi_quickentry .quickentry_detail{display: flex;height: 70px;align-items: center;}
+#shi_quickentry .quickentry_detail>div:nth-child(1){flex: 2;}
+#shi_quickentry .quickentry_detail>div:nth-child(2){flex: 2;}
